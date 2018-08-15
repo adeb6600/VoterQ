@@ -1,16 +1,15 @@
 import React from 'react';
 import style from '../styles/style.scss';
-
+import Layout from '../layout'
 const Index = () => (
-  <div>
-    <style dangerouslySetInnerHTML={{ __html: style }} />
+  <Layout>
 
-    <div className="container">
+    <div className="container is-mobile">
       <div className="notification is-success">
-        Hello world!
+        VoterQ
       </div>
     </div>
-  </div>
+  </Layout>
 );
 
 export default Index;
