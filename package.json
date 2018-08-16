@@ -33,6 +33,7 @@
     "react": "^16.4.2",
     "react-apollo": "^2.1.11",
     "react-dom": "^16.4.2",
+    "react-geolocated": "^2.4.0",
     "react-helmet": "^5.2.0",
     "recompose": "^0.28.2",
     "sass-loader": "^7.1.0"
