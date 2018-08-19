@@ -1,3 +1,5 @@
+
+import React  from 'react';
 const RegCard = (props)=>{
   console.log('reg props', props)
   return(
